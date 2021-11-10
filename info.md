@@ -1,11 +1,11 @@
 # Инструкция по работе с git
 
 1. Прописать пользователя
-* git config user.name
-* git config user.email
+   * git config user.name
+   * git config user.email
 
 2. Создать репозиторий
-* git init
+   * git init
 
 3. Работа срепозиторием
 
