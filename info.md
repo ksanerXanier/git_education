@@ -1,5 +1,23 @@
 # Инструкция по работе с git
 
+1. Прописать пользователя
+* git config user.name
+* git config user.email
+
+2. Создать репозиторий
+* git init
+
+3. Работа срепозиторием
+
+   1. Изменение файлов и их сохранение:
+      * git add
+      * git commit
+   2. Информация о состоянии репозитория:
+      * git status
+      * git log
+      * git diff
+
+
 # Список команд
 
 ## git init
