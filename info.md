@@ -3,7 +3,6 @@
 *Система контроля версий*
 
 # Подготовка репозитория
-
 1. Прописать пользователя
    * git config user.name "name"
    * git config user.email "email@m.com"
@@ -77,6 +76,11 @@ commit_code - код коммита, который можно получить 
 * git branch -d branch_name
 
 # Справка git
+*Модификатор команд, к которой выводит информацию о той команде, к которой был пременён*
+
+Примеры:
+  * git commit --help
+  * git status --help
 
 
 
