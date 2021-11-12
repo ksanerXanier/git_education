@@ -9,7 +9,7 @@
    * git config user.email "email@m.com"
 
  Прописать пользователя локально
-    * git config --local user.name "name"..  
+    * git config --local ...  
 
 # Создание "Сохранений"
 
